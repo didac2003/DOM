@@ -9,8 +9,18 @@ nodeMajus.innerHTML = majuscula.innerHTML.toUpperCase()
 document.getElementById("link").textContent = document.URL;
 */
 
-//Exx3
+//Ex3
+/*
 function canviarColor(){
     document.getElementById("groc").style.color = "yellow"
 }
 canviarColor()
+*/
+
+//Ex4
+function mida() {
+document.getElementById("canviarMida").width = 250
+document.getElementById("canviarMida").height = 250
+}
+mida()
+
