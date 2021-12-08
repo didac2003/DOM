@@ -4,7 +4,7 @@ let nodeMajus = document.getElementById('majuscula')
 nodeMajus.innerHTML = majuscula.innerHTML.toUpperCase()
 */
 
-//Ex2
+//Exx2
 /*
 document.getElementById("link").textContent = document.URL;
 */
